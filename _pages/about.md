@@ -17,26 +17,44 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a Ph.D. candidate at the Multimedia Communication and Pattern Recognition Lab, School of Artificial Intelligence, Beijing University of Posts and Telecommunications, under the supervision of Prof. Zhicheng Zhao. Currently, I am a visiting scholar at the College of Computing and Data Science, Nanyang Technological University, Singpaore, supervised by Prof. Shijian Lu. Before that, I obtained my Bacholar's Degree from Beijing University of Posts and Telecommunications in 2021.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes computer vision and machine learning, especially on transfer learning, domain generalization. My research also focuses on multi-modal learning, including vision-language model and applications. The aim of my research is to construct robust learning algorithms, to effectively and adaptively generalize to diverse scenarios.
+
+Please feel free to contact me if you're interested in my research direction.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.12*: &nbsp;🎉🎉 One paper is accepted by AAAI 2025. 
+- *2024.11*: &nbsp;🎉🎉 Create my own academic homepage.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**PracticalDG: Perturbation Distillation on Vision-Language Models for Hybrid Domain Generalization**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Zining Chen**, Weiqiu Wang, Zhicheng Zhao, Fei Su, Aidong Men, Hongying Meng
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+CVPR, 2024
+
+[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_PracticalDG_Perturbation_Distillation_on_Vision-Language_Models_for_Hybrid_Domain_Generalization_CVPR_2024_paper.pdf)
+
+
+
+[Cluster-instance normalization: A statistical relation-aware normalization for generalizable person re-identification](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_PracticalDG_Perturbation_Distillation_on_Vision-Language_Models_for_Hybrid_Domain_Generalization_CVPR_2024_paper.pdf)
+
+**Zining Chen**, Weiqiu Wang, Zhicheng Zhao, Fei Su, Aidong Men, Dong Yuan
+
+[PracticalDG: Perturbation Distillation on Vision-Language Models for Hybrid Domain Generalization]
+(https://ieeexplore.ieee.org/abstract/document/10243072)
+
+**Zining Chen**, Weiqiu Wang, Zhicheng Zhao, Fei Su, Aidong Men, Hongying Meng
+
+[Filter or Compensate: Towards Invariant Representation from Distribution Shift for Anomaly Detection]
+(https://arxiv.org/abs/2412.10115)
+
+**Zining Chen**, Weiqiu Wang, Zhicheng Zhao, Fei Su, Aidong Men, Hongying Meng
+
 </div>
 </div>
 
