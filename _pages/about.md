@@ -31,12 +31,9 @@ Please feel free to contact me if you're interested in my research direction.
 # 📝 Publications 
 
 
-**PracticalDG: Perturbation Distillation on Vision-Language Models for Hybrid Domain Generalization**
-
+- **PracticalDG: Perturbation Distillation on Vision-Language Models for Hybrid Domain Generalization**
 **Zining Chen**, Weiqiu Wang, Zhicheng Zhao, Fei Su, Aidong Men, Hongying Meng
-
 CVPR, 2024
-
 [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_PracticalDG_Perturbation_Distillation_on_Vision-Language_Models_for_Hybrid_Domain_Generalization_CVPR_2024_paper.pdf)
 
 
