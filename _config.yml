@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  name             : "Zining Chen"
+  avatar           : 
+  bio              : "Beijing University of Posts and Telecommunications"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=f0z0kX0AAAAJ&hl=en"
+  email            : "chenzn@bupt.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Zining_Chen3/research"
   uri              :
   bitbucket        :
   codepen          :
