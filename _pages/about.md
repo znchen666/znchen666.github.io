@@ -1,22 +1,3 @@
----
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<span class='anchor' id='about-me'></span>
-
 # About Me
 
 I am a Ph.D. candidate at the [Multimedia Communication and Pattern Recognition Lab](https://mcprl.com/), School of Artificial Intelligence, Beijing University of Posts and Telecommunications, under the supervision of Prof. Zhicheng Zhao. Currently, I am a visiting scholar at the College of Computing and Data Science, Nanyang Technological University, Singpaore, supervised by [Prof. Shijian Lu](https://personal.ntu.edu.sg/shijian.lu/). Before that, I obtained my Bacholar's Degree from Beijing University of Posts and Telecommunications in 2021.
