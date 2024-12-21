@@ -39,7 +39,7 @@ CVPR, 2024
 
 [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_PracticalDG_Perturbation_Distillation_on_Vision-Language_Models_for_Hybrid_Domain_Generalization_CVPR_2024_paper.pdf)[Code](https://github.com/znchen666/HDG)
 
-</div>
+
 
 **Cluster-instance normalization: A statistical relation-aware normalization for generalizable person re-identification**
 
@@ -49,7 +49,7 @@ IEEE Transactions on Multimedia, 2023
 
 [Paper](https://ieeexplore.ieee.org/document/10243072)
 
-</div>
+
 
 **Filter or Compensate: Towards Invariant Representation from Distribution Shift for Anomaly Detection**
 
@@ -59,7 +59,7 @@ AAAI, 2025
 
 [Paper](https://arxiv.org/abs/2412.10115)[Code](https://github.com/znchen666/FiCo)
 
-</div>
+
 
 **Instance Paradigm Contrastive Learning for Domain Generalization**
 
@@ -69,13 +69,13 @@ IEEE Transactions on Circuits and Systems for Video Technology, 2023
 
 [Paper](https://ieeexplore.ieee.org/document/10163491/)
 
-</div>
+
 
 **Selective Cross-Correlation Consistency Loss for Out-of-Distribution Generalization**
 
 **Zining Chen**, Weiqiu Wang, Zhicheng Zhao, Fei Su, Aidong Men
   
-IEEE Transactions on Circuits and Systems for Video Technology, 2023
+2024 IEEE International Conference on Multimedia and Expo, 2024
 
 [Paper](https://ieeexplore.ieee.org/document/10688222/)
 
