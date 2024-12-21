@@ -2,7 +2,7 @@
 
 I am a Ph.D. candidate at the [Multimedia Communication and Pattern Recognition Lab](https://mcprl.com/), School of Artificial Intelligence, Beijing University of Posts and Telecommunications, under the supervision of Prof. Zhicheng Zhao. Currently, I am a visiting scholar at the College of Computing and Data Science, Nanyang Technological University, Singpaore, supervised by [Prof. Shijian Lu](https://personal.ntu.edu.sg/shijian.lu/). Before that, I obtained my Bacholar's Degree from Beijing University of Posts and Telecommunications in 2021.
 
-My research interest includes computer vision and machine learning, especially on transfer learning, domain generalization. My research also focuses on multi-modal learning, including vision-language model and applications. The aim of my research is to construct robust learning algorithms, to effectively and adaptively generalize to diverse scenarios.
+My research interest includes computer vision and machine learning, especially on domain generalization. My research also focuses on multi-modal learning, including vision-language model and applications. The aim of my research is to construct robust learning algorithms, to effectively and adaptively generalize to diverse scenarios.
 
 Please feel free to contact me if you're interested in my research direction.
 
@@ -66,8 +66,7 @@ IEEE Transactions on Circuits and Systems for Video Technology, 2023
 - *2024.07* China Scholarship Council (CSC) Scholarship, Ministry of Education of P.R. China.
 - *2023.10* "Schlumberger" Enterprise Scholarship
 - *2023.10* Outstanding Graduate of Beijing University of Posts and Telecommunications.
-- *2023.10* Scholarship of Beijing University of Posts and Telecommunications - First Prize
-- 
+
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
