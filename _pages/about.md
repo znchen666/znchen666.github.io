@@ -32,16 +32,6 @@ IEEE Transactions on Multimedia, 2023
 
 </div>
 
-**Cluster-instance normalization: A statistical relation-aware normalization for generalizable person re-identification**
-
-**Zining Chen**, Weiqiu Wang, Zhicheng Zhao, Fei Su, Aidong Men, Yuan Dong
-  
-IEEE Transactions on Multimedia, 2023
-
-[Paper](https://ieeexplore.ieee.org/document/10243072)
-
-</div>
-
 **Filter or Compensate: Towards Invariant Representation from Distribution Shift for Anomaly Detection**
 
 **Zining Chen**, Xingshuang Luo, Weiqiu Wang, Zhicheng Zhao, Fei Su, Aidong Men
@@ -62,17 +52,6 @@ IEEE Transactions on Circuits and Systems for Video Technology, 2023
 
 </div>
 
-**Instance Paradigm Contrastive Learning for Domain Generalization**
-
-**Zining Chen**, Weiqiu Wang, Zhicheng Zhao, Fei Su, Aidong Men, Yuan Dong
-  
-IEEE Transactions on Circuits and Systems for Video Technology, 2023
-
-[Paper](https://ieeexplore.ieee.org/document/10163491/)
-
-
-</div>
-
 **Selective Cross-Correlation Consistency Loss for Out-of-Distribution Generalization**
 
 **Zining Chen**, Weiqiu Wang, Zhicheng Zhao, Fei Su, Aidong Men
@@ -83,8 +62,12 @@ IEEE Transactions on Circuits and Systems for Video Technology, 2023
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.11* National Scholarship, Ministry of Education of P.R. China.
+- *2024.07* China Scholarship Council (CSC) Scholarship, Ministry of Education of P.R. China.
+- *2023.10* "Schlumberger" Enterprise Scholarship
+- *2023.10* Outstanding Graduate of Beijing University of Posts and Telecommunications.
+- *2023.10* Scholarship of Beijing University of Posts and Telecommunications - First Prize
+- 
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
