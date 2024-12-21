@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zining Chen"
-  avatar           : "./image/zining.jpg"
+  avatar           : "./images/zining.jpg"
   bio              : "Beijing University of Posts and Telecommunications"
   location         : "Beijing, China"
   employer         :
