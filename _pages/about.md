@@ -8,7 +8,7 @@ Please feel free to contact me if you're interested in my research direction.
 
 
 # 🔥 News 
-- *2024.12*: &nbsp;🎉🎉 My own academic homepage is created!
+- *2024.12*: 🎉🎉 My own academic homepage is created!
 
 # 📝 Publications 
 
