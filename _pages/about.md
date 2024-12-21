@@ -13,32 +13,75 @@ Please feel free to contact me if you're interested in my research direction.
 
 # 📝 Publications 
 
+**PracticalDG: Perturbation Distillation on Vision-Language Models for Hybrid Domain Generalization**
 
-- **PracticalDG: Perturbation Distillation on Vision-Language Models for Hybrid Domain Generalization**
 **Zining Chen**, Weiqiu Wang, Zhicheng Zhao, Fei Su, Aidong Men, Hongying Meng
+  
 CVPR, 2024
-[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_PracticalDG_Perturbation_Distillation_on_Vision-Language_Models_for_Hybrid_Domain_Generalization_CVPR_2024_paper.pdf)
 
-
-
-[Cluster-instance normalization: A statistical relation-aware normalization for generalizable person re-identification](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_PracticalDG_Perturbation_Distillation_on_Vision-Language_Models_for_Hybrid_Domain_Generalization_CVPR_2024_paper.pdf)
-
-**Zining Chen**, Weiqiu Wang, Zhicheng Zhao, Fei Su, Aidong Men, Dong Yuan
-
-[PracticalDG: Perturbation Distillation on Vision-Language Models for Hybrid Domain Generalization]
-(https://ieeexplore.ieee.org/abstract/document/10243072)
-
-**Zining Chen**, Weiqiu Wang, Zhicheng Zhao, Fei Su, Aidong Men, Hongying Meng
-
-[Filter or Compensate: Towards Invariant Representation from Distribution Shift for Anomaly Detection]
-(https://arxiv.org/abs/2412.10115)
-
-**Zining Chen**, Weiqiu Wang, Zhicheng Zhao, Fei Su, Aidong Men, Hongying Meng
+[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_PracticalDG_Perturbation_Distillation_on_Vision-Language_Models_for_Hybrid_Domain_Generalization_CVPR_2024_paper.pdf)[Code](https://github.com/znchen666/HDG)
 
 </div>
+
+**Cluster-instance normalization: A statistical relation-aware normalization for generalizable person re-identification**
+
+**Zining Chen**, Weiqiu Wang, Zhicheng Zhao, Fei Su, Aidong Men, Yuan Dong
+  
+IEEE Transactions on Multimedia, 2023
+
+[Paper](https://ieeexplore.ieee.org/document/10243072)
+
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+**Cluster-instance normalization: A statistical relation-aware normalization for generalizable person re-identification**
+
+**Zining Chen**, Weiqiu Wang, Zhicheng Zhao, Fei Su, Aidong Men, Yuan Dong
+  
+IEEE Transactions on Multimedia, 2023
+
+[Paper](https://ieeexplore.ieee.org/document/10243072)
+
+</div>
+
+**Filter or Compensate: Towards Invariant Representation from Distribution Shift for Anomaly Detection**
+
+**Zining Chen**, Xingshuang Luo, Weiqiu Wang, Zhicheng Zhao, Fei Su, Aidong Men
+  
+AAAI, 2025
+
+[Paper](https://arxiv.org/abs/2412.10115)[Code](https://github.com/znchen666/FiCo)
+
+</div>
+
+**Instance Paradigm Contrastive Learning for Domain Generalization**
+
+**Zining Chen**, Weiqiu Wang, Zhicheng Zhao, Fei Su, Aidong Men, Yuan Dong
+  
+IEEE Transactions on Circuits and Systems for Video Technology, 2023
+
+[Paper](https://ieeexplore.ieee.org/document/10163491/)
+
+</div>
+
+**Instance Paradigm Contrastive Learning for Domain Generalization**
+
+**Zining Chen**, Weiqiu Wang, Zhicheng Zhao, Fei Su, Aidong Men, Yuan Dong
+  
+IEEE Transactions on Circuits and Systems for Video Technology, 2023
+
+[Paper](https://ieeexplore.ieee.org/document/10163491/)
+
+
+</div>
+
+**Selective Cross-Correlation Consistency Loss for Out-of-Distribution Generalization**
+
+**Zining Chen**, Weiqiu Wang, Zhicheng Zhao, Fei Su, Aidong Men
+  
+IEEE Transactions on Circuits and Systems for Video Technology, 2023
+
+[Paper](https://ieeexplore.ieee.org/document/10688222/)
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
