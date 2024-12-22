@@ -65,7 +65,7 @@ AAAI Conference on Artificial Intelligence (**AAAI**), 2025<br>
 <br>
 
 ---
-<img src="../images/tcsvt.jpg" width="260" height="auto" alt="" align="left" style="padding-right: 10px;">
+<img src="../images/tcsvt.jpg" width="260" height="140" alt="" align="left" style="padding-right: 10px;">
 
 **Instance Paradigm Contrastive Learning for Domain Generalization**<br>
 **Zining Chen**, Weiqiu Wang, Zhicheng Zhao, Fei Su, Aidong Men, Yuan Dong<br>
@@ -76,19 +76,15 @@ IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2023
 <br>
 
 ---
-<img src="../images/icme.jpg" width="260" height="auto" alt="" align="left" style="padding-right: 10px;">
+<img src="../images/icme.jpg" width="260" height="130" alt="" align="left" style="padding-right: 10px;">
 
 **Selective Cross-Correlation Consistency Loss for Out-of-Distribution Generalization**<br>
 **Zining Chen**, Weiqiu Wang, Zhicheng Zhao, Fei Su, Aidong Men<br>
 IEEE International Conference on Multimedia and Expo (**ICME**), 2024<br>
 <a href="https://ieeexplore.ieee.org/document/10688222/">[Paper]</a><br>
 <br>
-<br>
-<br>
 
 ---
-
-
 
 # ⭐ Honors and Awards
 - *2024.11* National Scholarship, Ministry of Education of P.R. China.
