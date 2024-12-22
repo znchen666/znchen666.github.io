@@ -25,10 +25,11 @@ My research interest includes computer vision and machine learning, especially o
 
 Please feel free to contact me if you're interested in my research direction.
 
-
+<br>
 
 # 🔥 News 
 - *2024.12*: 🎉🎉 My academic homepage is created!
+<br>
 <br>
 
 
@@ -68,7 +69,7 @@ AAAI Conference on Artificial Intelligence (**AAAI**), 2025<br>
 <br>
 
 ---
-<img src="../images/tcsvt.jpg" width="260" height="125" alt="" align="left" style="padding-right: 10px;">
+<img src="../images/tcsvt.jpg" width="260" height="120" alt="" align="left" style="padding-right: 10px;">
 
 **Instance Paradigm Contrastive Learning for Domain Generalization**<br>
 **Zining Chen**, Weiqiu Wang, Zhicheng Zhao, Fei Su, Aidong Men, Yuan Dong<br>
@@ -79,7 +80,7 @@ IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2023
 <br>
 
 ---
-<img src="../images/icme.jpg" width="260" height="125" alt="" align="left" style="padding-right: 10px;">
+<img src="../images/icme.jpg" width="260" height="130" alt="" align="left" style="padding-right: 10px;">
 
 **Selective Cross-Correlation Consistency Loss for Out-of-Distribution Generalization**<br>
 **Zining Chen**, Weiqiu Wang, Zhicheng Zhao, Fei Su, Aidong Men<br>
