@@ -65,7 +65,6 @@ AAAI Conference on Artificial Intelligence (**AAAI**), 2025<br>
 <a href="https://github.com/znchen666/FiCo">[Code]</a>
 <br>
 <br>
-<br>
 
 ---
 <img src="../images/tcsvt.jpg" width="260" height="120" alt="" align="left" style="padding-right: 10px;">
