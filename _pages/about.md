@@ -26,8 +26,11 @@ My research interest includes computer vision and machine learning, especially o
 Please feel free to contact me if you're interested in my research direction.
 
 
+
 # 🔥 News 
 - *2024.12*: 🎉🎉 My academic homepage is created!
+
+
 
 # 📝 Publications 
 <img src="../images/cvpr.jpg" width="260" height="auto" alt="" align="left" style="padding-right: 10px;">
@@ -84,7 +87,7 @@ IEEE International Conference on Multimedia and Expo (**ICME**), 2024<br>
 <a href="https://ieeexplore.ieee.org/document/10688222/">[Paper]</a><br>
 <br>
 
----
+
 
 # ⭐ Honors and Awards
 - *2024.11* National Scholarship, Ministry of Education of P.R. China.
@@ -95,6 +98,8 @@ IEEE International Conference on Multimedia and Expo (**ICME**), 2024<br>
 - *2022.09* Winner of NICOChallenge 2022.
 - *2020.08* National Innovation and Entrepreneurship Program for College Students.
 - *2018.11-2024.11* Beijing University of Posts and Telecommunications Scholarship (7 times).
+
+
 
 # 🚩 Miscellaneous
 - Academic Reviewer:
