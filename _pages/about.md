@@ -61,13 +61,14 @@ AAAI, 2025
 
 
 
-**Instance Paradigm Contrastive Learning for Domain Generalization**
+(./images/tcsvt.jpg)**Instance Paradigm Contrastive Learning for Domain Generalization**
 
 **Zining Chen**, Weiqiu Wang, Zhicheng Zhao, Fei Su, Aidong Men, Yuan Dong
   
 IEEE Transactions on Circuits and Systems for Video Technology, 2023
 
 [Paper](https://ieeexplore.ieee.org/document/10163491/)
+
 
 
 
