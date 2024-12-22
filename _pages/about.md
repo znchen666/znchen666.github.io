@@ -43,7 +43,6 @@ Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024<br>
 <a href="https://github.com/znchen666/HDG">[Code]</a><br> 
 <br>
 <br>
-<br>
 
 ---
 <img src="../images/tmm.jpg" width="260" height="auto" alt="" align="left" style="padding-right: 10px;">
