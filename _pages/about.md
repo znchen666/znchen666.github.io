@@ -74,7 +74,7 @@ IEEE International Conference on Multimedia and Expo (**ICME**), 2024<br />
 <a href="https://ieeexplore.ieee.org/document/10688222/">[Paper]</a><br />
 <hr>
 
-# 🎖 Honors and Awards
+# ⭐ Honors and Awards
 - *2024.11* National Scholarship, Ministry of Education of P.R. China.
 - *2024.09* "Huawei Cup" The 6th China Graduate AI Innovation Competition - National Second Prize
 - *2024.07* China Scholarship Council (CSC) Scholarship, Ministry of Education of P.R. China.
