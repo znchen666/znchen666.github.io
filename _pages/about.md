@@ -31,7 +31,7 @@ Please feel free to contact me if you're interested in my research direction.
 
 # 📝 Publications 
 
-<img src="../images/cvpr.jpg" width="300" height="auto" alt="" align="left" style="padding-right: 10px;">
+<img src="../images/cvpr.jpg" width="260" height="auto" alt="" align="left" style="padding-right: 10px;">
 
 **PracticalDG: Perturbation Distillation on Vision-Language Models for Hybrid Domain Generalization**
 
@@ -43,9 +43,8 @@ Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024
 <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_PracticalDG_Perturbation_Distillation_on_Vision-Language_Models_for_Hybrid_Domain_Generalization_CVPR_2024_paper.pdf">[Paper]</a>
 <a href="https://github.com/znchen666/HDG">[Code]</a>
 
-#
 
-<img src="../images/tmm.jpg" width="300" height="auto" alt="" align="left" style="padding-right: 10px;">
+<img src="../images/tmm.jpg" width="260" height="auto" alt="" align="left" style="padding-right: 10px;">
 
 **Cluster-instance normalization: A statistical relation-aware normalization for generalizable person re-identification**
 
@@ -55,9 +54,8 @@ IEEE Transactions on Multimedia (**TMM**), 2023
 
 <a href="https://ieeexplore.ieee.org/document/10243072">[Paper]</a>
 
-#
 
-<img src="../images/aaai.jpg" width="300" height="150" alt="" align="left" style="padding-right: 10px;">
+<img src="../images/aaai.jpg" width="260" height="auto" alt="" align="left" style="padding-right: 10px;">
 
 **Filter or Compensate: Towards Invariant Representation from Distribution Shift for Anomaly Detection**
 
@@ -68,9 +66,8 @@ AAAI Conference on Artificial Intelligence (**AAAI**), 2025
 <a href="https://arxiv.org/abs/2412.10115">[Paper]</a>
 <a href="https://github.com/znchen666/FiCo">[Code]</a>
 
-#
 
-<img src="../images/tcsvt.jpg" width="300" height="170" alt="" align="left" style="padding-right: 10px;">
+<img src="../images/tcsvt.jpg" width="260" height="auto" alt="" align="left" style="padding-right: 10px;">
 
 
 **Instance Paradigm Contrastive Learning for Domain Generalization**
@@ -81,9 +78,8 @@ IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2023
 
 <a href="https://ieeexplore.ieee.org/document/10163491/">[Paper]</a>
 
-#
 
-<img src="../images/icme.jpg" width="300" height="130" alt="" align="left" style="padding-right: 10px;">
+<img src="../images/icme.jpg" width="260" height="auto" alt="" align="left" style="padding-right: 10px;">
 
 **Selective Cross-Correlation Consistency Loss for Out-of-Distribution Generalization**
 
@@ -93,7 +89,6 @@ IEEE International Conference on Multimedia and Expo (**ICME**), 2024
 
 <a href="https://ieeexplore.ieee.org/document/10688222/">[Paper]</a>
 
-# 
 
 # 🎖 Honors and Awards
 - *2024.11* National Scholarship, Ministry of Education of P.R. China.
