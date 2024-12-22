@@ -31,15 +31,21 @@ Please feel free to contact me if you're interested in my research direction.
 
 # 📝 Publications 
 
+
+<img src="../images/cvpr.jpg" width="260" height="auto" alt="" align="left" style="padding-right: 10px;">
+
 **PracticalDG: Perturbation Distillation on Vision-Language Models for Hybrid Domain Generalization**
 
 **Zining Chen**, Weiqiu Wang, Zhicheng Zhao, Fei Su, Aidong Men, Hongying Meng
   
 CVPR, 2024
 
-[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_PracticalDG_Perturbation_Distillation_on_Vision-Language_Models_for_Hybrid_Domain_Generalization_CVPR_2024_paper.pdf)[Code](https://github.com/znchen666/HDG)
+<a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_PracticalDG_Perturbation_Distillation_on_Vision-Language_Models_for_Hybrid_Domain_Generalization_CVPR_2024_paper.pdf">[Paper]</a>
+<a href="https://github.com/znchen666/HDG">[Code]</a>
 
+#
 
+<img src="../images/tmm.jpg" width="260" height="auto" alt="" align="left" style="padding-right: 10px;">
 
 **Cluster-instance normalization: A statistical relation-aware normalization for generalizable person re-identification**
 
@@ -47,9 +53,11 @@ CVPR, 2024
   
 IEEE Transactions on Multimedia, 2023
 
-[Paper](https://ieeexplore.ieee.org/document/10243072)
+<a href="https://ieeexplore.ieee.org/document/10243072">[Paper]</a>
 
+#
 
+<img src="../images/aaai.JPG" width="260" height="auto" alt="" align="left" style="padding-right: 10px;">
 
 **Filter or Compensate: Towards Invariant Representation from Distribution Shift for Anomaly Detection**
 
@@ -57,20 +65,24 @@ IEEE Transactions on Multimedia, 2023
   
 AAAI, 2025
 
-[Paper](https://arxiv.org/abs/2412.10115)[Code](https://github.com/znchen666/FiCo)
+<a href="https://arxiv.org/abs/2412.10115">[Paper]</a>
+<a href="https://github.com/znchen666/FiCo">[Code]</a>
 
+#
 
+<img src="../images/tcsvt.jpg" width="260" height="auto" alt="" align="left" style="padding-right: 10px;">
 
-(./images/tcsvt.jpg)**Instance Paradigm Contrastive Learning for Domain Generalization**
+**Instance Paradigm Contrastive Learning for Domain Generalization**
 
 **Zining Chen**, Weiqiu Wang, Zhicheng Zhao, Fei Su, Aidong Men, Yuan Dong
   
 IEEE Transactions on Circuits and Systems for Video Technology, 2023
 
-[Paper](https://ieeexplore.ieee.org/document/10163491/)
+<a href="https://ieeexplore.ieee.org/document/10163491/">[Paper]</a>
 
+#
 
-
+<img src="../images/icme.JPG" width="260" height="auto" alt="" align="left" style="padding-right: 10px;">
 
 **Selective Cross-Correlation Consistency Loss for Out-of-Distribution Generalization**
 
@@ -78,8 +90,7 @@ IEEE Transactions on Circuits and Systems for Video Technology, 2023
   
 2024 IEEE International Conference on Multimedia and Expo, 2024
 
-[Paper](https://ieeexplore.ieee.org/document/10688222/)
-
+<a href="https://ieeexplore.ieee.org/document/10688222/">[Paper]</a>
 
 # 🎖 Honors and Awards
 - *2024.11* National Scholarship, Ministry of Education of P.R. China.
